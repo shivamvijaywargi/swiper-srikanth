@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-height: 700px;
+  /* max-width: 300px; */
+}
+
+.swiper-container {
+  height: 700px;
+  width: 300px;
+}
